@@ -32,9 +32,9 @@ class HomePage extends StatelessWidget {
       body: Container(
         height: 650,
         width: MediaQuery.of(context).size.width,
-        decoration: BoxDecoration(
+        
           color: bgColor,
-        ),
+        
         child: Row(
           children: [
             Column(
