@@ -1,16 +1,12 @@
-# facebook_clone
+# A Portfolio Website - Flutter Web
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/UkiR8JrNaz4)
 
-## Getting Started
+### This UI is not Responsive
 
-This project is a starting point for a Flutter application.
+A nice clean Facebook UI Clone.Today I will show you how you can create Facebook UI Clone using flutter. We also add animation which works perfectly on mobile and the web.
 
-A few resources to get you started if this is your first Flutter project:
+### Facebook UI Clone
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<img src="https://user-images.githubusercontent.com/65107679/125163857-f8504280-e143-11eb-9c7a-dfa4e369d2f2.png" alt="portfolio" width="600">
