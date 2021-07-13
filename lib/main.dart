@@ -9,7 +9,6 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -31,10 +30,8 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       body: Container(
         height: 650,
-        width: MediaQuery.of(context).size.width,
-        
+        width: MediaQuery.of(context).size.width,  
           color: bgColor,
-        
         child: Row(
           children: [
             Column(
@@ -68,7 +65,6 @@ class HomePage extends StatelessWidget {
                 boxShadow: [
                   BoxShadow(
                     color: Colors.grey,
-                    // offset: Offset(1, 1), // changes position of shadow
                   ),
                 ],
               ),
